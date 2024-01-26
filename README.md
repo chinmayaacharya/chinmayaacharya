@@ -17,7 +17,7 @@
 <a href="https://www.leetcode.com/chinmayaacharya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chinmayaacharya_" height="30" width="40" /></a>
 </p>
 <hr>
-<h3>Things I code with</h3>
+<h3>Things I code with:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express-D1D1D1?style=flat-square&logo=express&logoColor=black"/>
