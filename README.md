@@ -10,7 +10,6 @@
 
 - 📄 View my Resume at [https://drive.google.com/file/d/1xqjNU2fyY1qyZa2bIg-LpQYYoJAIzddE/view?usp=drivesdk](https://drive.google.com/file/d/1xqjNU2fyY1qyZa2bIg-LpQYYoJAIzddE/view?usp=drivesdk)
 
-- ⚡ Fun fact **I am batman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
