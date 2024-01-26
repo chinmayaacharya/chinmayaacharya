@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/955c0c923330c1a1c12102cc72c7380a48157330d0570ab47749c73bdb1dfab2/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313133362f302a73447544706f324e4942725959564a6c)
+![MasterHead](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Chinmaya Acharya</h1>
 <h3 align="center">A passionate MERN developer</h3>
 - 🌱 I’m currently learning **MERN Stack**
