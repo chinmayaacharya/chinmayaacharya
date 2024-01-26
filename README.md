@@ -1,13 +1,14 @@
 ![MasterHead](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Chinmaya Acharya</h1>
-<h3 align="center">A passionate MERN developer</h3>
-- 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 View my portfolio at [https://chinmaya-portfolio.netlify.app/](https://chinmaya-portfolio.netlify.app/)
+- 👨‍🎓 I’m a Final Year CSE Undergrad Student at Vellore Institute of Technology
+- 🌱 I’m currently learning **MERN Stack** and **DSA**
+
+- 👨‍💻 Check out my portfolio at [https://chinmaya-portfolio.netlify.app/](https://chinmaya-portfolio.netlify.app/)
 
 - 📫 How to reach me **acharyachinmaya4@gmail.com** 
 
-- 📄 Checkout my Resume at [https://drive.google.com/file/d/1xqjNU2fyY1qyZa2bIg-LpQYYoJAIzddE/view?usp=drivesdk](https://drive.google.com/file/d/1xqjNU2fyY1qyZa2bIg-LpQYYoJAIzddE/view?usp=drivesdk)
+- 📄 View my Resume at [https://drive.google.com/file/d/1xqjNU2fyY1qyZa2bIg-LpQYYoJAIzddE/view?usp=drivesdk](https://drive.google.com/file/d/1xqjNU2fyY1qyZa2bIg-LpQYYoJAIzddE/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am batman**
 
